@@ -78,36 +78,36 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Sidebar Name"
-  avatar: "profile.png"
-  bio: "Your biography for the left-hand sidebar"
-  location: "Location"
+  name: "Abdulkadir Huzeifa"
+  avatar: "abdulprofilepic.jpg"
+  bio: "Artifical Intelligence and Machine Learning Aficionado"
+  location: "Uganda"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed:
+  googlescholar:
+  email: "abdulkadirhuzeifa@gmail.com"
+  researchgate:
   uri:
   bitbucket:
   codepen:
   dribbble:
   flickr:
-  facebook:
+  facebook: "abdulkadirhuzeifa"
   foursquare:
-  github: "academicpages"
+  github: "abdulkadirhuzeifa"
   google_plus:
   keybase:
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram: "abdulkadirhuzeifa"
+  impactstory:
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "abdulkadirhuzeifa"
+  orcid:
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow:
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: "abdulkadirMLDev"
   vine:
   weibo:
   xing:
